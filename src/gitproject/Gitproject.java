@@ -23,6 +23,7 @@ public class Gitproject {
         
         int i = 0;
         int d= 1;
+        int j=9;
         System.out.println(d-i);
     }
     
