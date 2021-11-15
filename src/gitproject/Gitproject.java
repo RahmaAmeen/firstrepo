@@ -22,6 +22,9 @@ public class Gitproject {
         System.out.println("hello");
         System.out.println("wow");
         System.out.println(z);
+        System.out.println("h");
+        System.out.println("woll");
+        System.out.println(z);
     }
     
 }
