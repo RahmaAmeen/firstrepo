@@ -21,10 +21,9 @@ public class Gitproject {
         int z = y+x;
         System.out.println(z);
         
-        int i = 0;
-        int d= 1;
-        int j=9;
-        System.out.println(d-i);
+        int a;
+        int c;
+        char d;
     }
     
 }
